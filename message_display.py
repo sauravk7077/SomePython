@@ -4,7 +4,7 @@ init()
 
 
 
-def show_info(message:str, info_level:str='info'):
+def show_info(message: str, info_level: str = 'info'):
         """
     This method displays the message in different colors depending on the info_level
     Parameters:
